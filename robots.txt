@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /tmp/
+Disallow: /backups/
+Disallow: /config/
+Disallow: /cgi-bin/
+Disallow: /public/songs
+Disallow: /public/fonts
+Disallow: /public/images
+Disallow: /build
+Allow: /public/
+Sitemap: https://karaokalypse.ie/sitemap.xml
