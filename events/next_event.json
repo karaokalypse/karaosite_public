@@ -1,9 +1,9 @@
 {
-    "date": "2024/08/03",
-    "dateAsString": "Saturday 3rd August at 9pm",
-    "fb_link": "https://www.facebook.com/events/839909341054724/",
-    "special_link": "https://ie.powertik.com/events/karaokalypse-vs-tempest-alternative-karaoke-club",
-    "special": true,
+    "date": "2024/10/05",
+    "dateAsString": "Saturday 5th October at 10pm",
+    "fb_link": "https://www.facebook.com/Karaokalypse",
+    "special_link": "",
+    "special": false,
     "battlevox": false,
     "renewSslNextMonth": "nov424"
 }
