@@ -60,8 +60,8 @@ Sk8er Boi,Let Go,Avril Lavigne,false
 Love Shack,Cosmic Thing,The B-52's,false
 Private Idaho,Wild Planet,The B-52's,false
 Spaceman,The Boy With The X-Ray Eyes,Babylon Zoo,false
-Like A Villain,,Bad Omens,true
-V.A.N,,Bad Omens & Poppy,true
+Like A Villain,THE DEATH OF PEACE OF MIND,Bad Omens,true
+V.A.N,V.A.N,Bad Omens feat. Poppy,true
 21st Century (Digital Boy),Against The Grain,Bad Religion,false
 American Jesus,Recipe For Hate,Bad Religion,false
 Infected,Stranger Than Fiction,Bad Religion,false
@@ -91,7 +91,7 @@ Iron Man,Paranoid,Black Sabbath,false
 N.I.B.,Black Sabbath,Black Sabbath,false
 Paranoid,Paranoid,Black Sabbath,false
 Snowblind,Vol. 4,Black Sabbath,false
-The Wizard,,Black Sabbath,true
+The Wizard,Black Sabbath,Black Sabbath,true
 War Pigs,Paranoid,Black Sabbath,false
 White Trash Millionaire,Between the Devil & the Deep Blue Sea,Black Stone Cherry,false
 The Bard's Song,Somewhere Far Beyond,Blind Guardian,false
@@ -127,7 +127,7 @@ So Cold,We Are Not Alone,Breaking Benjamin,false
 The Diary of Jane,Phobia (Clean Version),Breaking Benjamin,false
 Cannonball,Last Splash,The Breeders,false
 Drown,That's The Spirit,Bring Me The Horizon,false
-Shadow Moses,,Bring Me The Horizon,true
+Shadow Moses,Sempiternal (Expanded Edition),Bring Me The Horizon,true
 Throne,That's The Spirit,Bring Me The Horizon,false
 Kingslayer (feat. BABYMETAL),POST HUMAN: SURVIVAL HORROR,"Bring Me The Horizon,BABYMETAL",false
 Smalltown Boy,The Age of Consent,Bronski Beat,false
@@ -193,7 +193,7 @@ Growing on Me,Permission to Land,The Darkness,false
 I Believe in a Thing Called Love,Permission to Land,The Darkness,false
 Ashes to Ashes,Scary Monsters (And Super Creeps) [2017 Remaster],David Bowie,false
 Heroes,Heroes (2017 Remaster),David Bowie,false
-I'm Afraid Of Americans,,David Bowie,true
+I'm Afraid Of Americans,Earthling (2021 Remaster),David Bowie,true
 Let's Dance,Let's Dance (2018 Remaster),David Bowie,false
 Life on Mars?,Hunky Dory,David Bowie,false
 If It Means A Lot To You,Homesick,A Day To Remember,false
@@ -272,7 +272,7 @@ We Care a Lot,Introduce Yourself,Faith No More,false
 "This Ain't A Scene, It's An Arms Race",Infinity On High,Fall Out Boy,false
 Thnks fr th Mmrs,Infinity On High,Fall Out Boy,false
 Buck Rogers,Echo Park,Feeder,false
-"Hey Man, Nice Shot - Remastered Version",Short Bus,Filter,false
+"Hey Man, Nice Shot",Short Bus,Filter,false
 Bad Company,War is the Answer,Five Finger Death Punch,false
 Far From Home,War is the Answer,Five Finger Death Punch,false
 Under and Over It,American Capitalist (Deluxe),Five Finger Death Punch,false
@@ -322,8 +322,8 @@ Rats,Prequelle,Ghost,false
 Square Hammer,Meliora,Ghost,false
 Watcher In The Sky,IMPERA,Ghost,false
 Year Zero,Infestissumam,Ghost,false
-Silvera,,Gojira,true
-Stranded,,Gojira,true
+Silvera,Magma,Gojira,true
+Stranded,Magma,Gojira,true
 99 Red Balloons,Stomping Ground,Goldfinger,false
 Lifestyles of the Rich & Famous,The Young and The Hopeless,Good Charlotte,false
 21 Guns,21st Century Breakdown,Green Day,false
@@ -355,8 +355,8 @@ Alone,Bad Animals,Heart,false
 Barracuda,Little Queen,Heart,false
 Unsung,Meantime,Helmet,false
 Join Me In Death,Uneasy Listening Vol.1,HIM,false
-Solitary Man,,HIM,true
-Wicked Game,,HIM,true
+Solitary Man,And Love Said No...,HIM,true
+Wicked Game,Greatest Love Songs Vol. 666,HIM,true
 Wings of a Butterfly,Dark Light,HIM,false
 Painted On My Heart,"A Tribute to the Rock 'N' Roll Allstars: Kiss, Guns N' Roses, Deep Purple and More, Vol. 1",The Hit Co.,false
 Main Offender,Veni Vidi Vicious,The Hives,false
@@ -411,7 +411,7 @@ I Hate Myself for Loving You,Up Your Alley,Joan Jett & the Blackhearts,false
 I Love Rock 'N Roll,I Love Rock 'N' Roll (Expanded Edition),Joan Jett & the Blackhearts,false
 Crimson and Clover,Live New York '82,"Joan Jett & the Blackhearts,the Blackhearts",false
 Summer in the City,Have a Little Faith,Joe Cocker,false
-Blaze Of Glory - From Young Guns II Soundtrack,Blaze Of Glory,Jon Bon Jovi,false
+Blaze Of Glory,Blaze Of Glory,Jon Bon Jovi,false
 Any Way You Want It,Departure,Journey,false
 Don't Stop Believin',Escape,Journey,false
 Separate Ways (Worlds Apart),Frontiers (2023 Remaster),Journey,false
@@ -463,7 +463,7 @@ Omerta,Ashes of the Wake (15th Anniversary),Lamb of God,false
 Redneck,Sacrament (15th Anniversary Edition),Lamb of God,false
 Immigrant Song,Led Zeppelin III (Remaster),Led Zeppelin,false
 Rock and Roll,Led Zeppelin IV,Led Zeppelin,false
-Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),Led Zeppelin,false
+Whole Lotta Love,Led Zeppelin II (1994 Remaster),Led Zeppelin,false
 Steal My Sunshine,You Can't Stop The Bum Rush,LEN,false
 Always On The Run,Mama Said,Lenny Kravitz,false
 American Woman,5,Lenny Kravitz,false
@@ -482,18 +482,18 @@ Breaking the Habit,Meteora (Bonus Edition),Linkin Park,false
 Crawling,Hybrid Theory (Bonus Edition),Linkin Park,false
 Faint,Meteora,Linkin Park,false
 Given Up,Minutes to Midnight,Linkin Park,false
-Heavy is the Crown,,Linkin Park,true
+Heavy Is the Crown,Heavy Is the Crown,Linkin Park,true
 In the End,Hybrid Theory (Bonus Edition),Linkin Park,false
 Numb,Meteora,Linkin Park,false
 One Step Closer,Hybrid Theory (Bonus Edition),Linkin Park,false
 Papercut,Hybrid Theory (Bonus Edition),Linkin Park,false
 Points of Authority,Hybrid Theory (Bonus Edition),Linkin Park,false
 Somewhere I Belong,Meteora (Bonus Edition),Linkin Park,false
-The Emptiness Machine,,Linkin Park,true
+The Emptiness Machine,The Emptiness Machine,Linkin Park,true
 What I've Done,Minutes to Midnight,Linkin Park,false
 With You,Hybrid Theory (Bonus Edition),Linkin Park,false
 My Own Worst Enemy,A Place In The Sun,Lit,false
-Cult of Personality (2023 Remaster),Vivid (2023 Remaster),Living Colour,false
+Cult of Personality,Vivid (2023 Remaster),Living Colour,false
 Free Bird,Pronounced' Leh-'Nerd 'Skin-'Nerd,Lynyrd Skynyrd,false
 Gimme Three Steps,Pronounced' Leh-'Nerd 'Skin-'Nerd,Lynyrd Skynyrd,false
 Sweet Home Alabama,Second Helping (Expanded Edition),Lynyrd Skynyrd,false
@@ -532,8 +532,8 @@ No Leaf Clover,S&M,Metallica,false
 Nothing Else Matters,Metallica,Metallica,false
 Sad But True,Metallica,Metallica,false
 So What,Garage Inc.,Metallica,false
+The Memory Remains,Reload,Metallica,false
 Until It Sleeps,Load,Metallica,false
-The Memory Remains,Reload,"Metallica,Marianne Faithfull",false
 Jesus Built My Hotrod,KE*A*H** (Psalm 69),Ministry,false
 N.W.O.,KE*A*H** (Psalm 69),Ministry,false
 What About Us?,Greatest Fits,Ministry,false
@@ -561,7 +561,7 @@ Too Young to Fall in Love,Shout At The Devil,Mötley Crüe,false
 Ace of Spades,Ace of Spades (Expanded Edition),Motörhead,false
 Killed by Death,All the Aces,Motörhead,false
 Overkill,Overkill (Expanded Edition),Motörhead,false
-Born For The Game,HBN ENT Presents: Lit Mode,"Motorhead2x,Project Pat",false
+The Game,WWE (HHH),Motörhead,false
 Pink Cigarette,California,Mr. Bungle,false
 Dig,L.D. 50,Mudvayne,false
 Happy?,Lost and Found,Mudvayne,false
@@ -598,13 +598,13 @@ Sleeping Sun,Oceanborn,Nightwish,false
 The Phantom Of The Opera,Century Child,Nightwish,false
 Wish I Had an Angel,Once,Nightwish,false
 Closer,The Downward Spiral,Nine Inch Nails,false
-Dead Souls,,Nine Inch Nails,true
-Every Day Is Exactly The Same,,Nine Inch Nails,true
+Dead Souls,The Crow Original Motion Picture Soundtrack,Nine Inch Nails,true
+Every Day Is Exactly The Same,With Teeth (Bonus Tracks),Nine Inch Nails,true
 Head Like A Hole,Pretty Hate Machine,Nine Inch Nails,false
 March Of The Pigs,The Downward Spiral,Nine Inch Nails,false
-Only,,Nine Inch Nails,true
+Only,With Teeth (Bonus Tracks),Nine Inch Nails,true
 Sin,Pretty Hate Machine,Nine Inch Nails,false
-Terrible Lie,,Nine Inch Nails,true
+Terrible Lie,And All That Could Have Been/Still,Nine Inch Nails,true
 The Hand That Feeds,With Teeth (Bonus Tracks),Nine Inch Nails,false
 The Perfect Drug,Lost Highway,Nine Inch Nails,false
 Wish,Broken,Nine Inch Nails,false
@@ -672,7 +672,7 @@ The Only Exception,Brand New Eyes,Paramore,false
 Alive,Ten,Pearl Jam,false
 Better Man,Vitalogy,Pearl Jam,false
 Even Flow,Ten,Pearl Jam,false
-Jeremy,,Pearl Jam,true
+Jeremy,Ten,Pearl Jam,true
 Judith,Mer De Noms,A Perfect Circle,false
 Passive,eMOTIVe,A Perfect Circle,false
 Pet,Thirteenth Step,A Perfect Circle,false
@@ -697,7 +697,7 @@ Running Up That Hill,Covers,Placebo,false
 The Bitter End,Sleeping With Ghosts,Placebo,false
 Meds,Meds,"Placebo,Alison Mosshart",false
 Every Rose Has Its Thorn,Open Up And Say...Ahh!,Poison,false
-Nothin' But A Good Time,,Poison,true
+Nothin' But A Good Time,Open Up And Say...Ahh! (20th Anniversary Edition),Poison,true
 Talk Dirty To Me,Look What The Cat Dragged In - 20th Anniversary Edition,Poison,false
 Unskinny Bop,Flesh & Blood,Poison,false
 Your Mama Don't Dance,Open Up And Say...Ahh!,Poison,false
@@ -829,8 +829,8 @@ Roots Bloody Roots,Roots,Sepultura,false
 Empty Walls,Elect the Dead (Deluxe),Serj Tankian,false
 Stay,Hormonally Yours (Remastered and Expanded),Shakespears Sister,false
 Hurry Up Harry,Angels With Dirty Faces,Sham 69,false
-Tear You Apart,,She Wants Revenge,true
-These Things,,She Wants Revenge,true
+Tear You Apart,She Wants Revenge,She Wants Revenge,true
+These Things,She Wants Revenge,She Wants Revenge,true
 A Symptom Of Being Human,Planet Zero,Shinedown,false
 Cities In Dust,Tinderbox,Siouxsie and the Banshees,false
 Face To Face,Superstition (Expanded Edition),Siouxsie and the Banshees,false
@@ -848,12 +848,12 @@ Dead Skin Mask,Seasons In The Abyss,Slayer,false
 Raining Blood,Reign In Blood (Expanded),Slayer,false
 South Of Heaven,South Of Heaven,Slayer,false
 War Ensemble,Seasons In The Abyss,Slayer,false
-Alkaline,,Sleep Token,true
-Blood Sport,,Sleep Token,true
-Chokehold,,Sleep Token,true
-Rain,,Sleep Token,true
-The Offering,,Sleep Token,true
-The Summoning,,Sleep Token,true
+Alkaline,This Place Will Become Your Tomb,Sleep Token,true
+Blood Sport,Sundowning,Sleep Token,true
+Chokehold,Vore,Sleep Token,true
+Rain,Take Me Back To Eden,Sleep Token,true
+The Offering,Sundowning,Sleep Token,true
+The Summoning,The Summoning,Sleep Token,true
 (sic),Slipknot (10th Anniversary Edition),Slipknot,false
 Before I Forget,Vol. 3: The Subliminal Verses,Slipknot,false
 Duality,Vol. 3: The Subliminal Verses,Slipknot,false
@@ -888,7 +888,7 @@ Unhappy Birthday,"Strangeways, Here We Come",The Smiths,false
 What Difference Does It Make?,The Smiths,The Smiths,false
 Sex Dwarf,Non-Stop Erotic Cabaret,Soft Cell,false
 Tainted Love,Non-Stop Erotic Cabaret,Soft Cell,false
-Halo,,Soil,true
+Halo,Scars,Soil,true
 Black Hole Sun,Superunknown,Soundgarden,false
 Burden In My Hand,Down On The Upside,Soundgarden,false
 Fell On Black Days,Superunknown,Soundgarden,false
@@ -923,7 +923,6 @@ Ballroom Blitz,Rock Band Classics,Sweet,false
 Aerials,Toxicity,System Of A Down,false
 B.Y.O.B.,Mezmerize,System Of A Down,false
 Bounce,Toxicity,System Of A Down,false
-Chop Suey!,Toxicity,System Of A Down,false
 Chop Suey!,Toxicity,System Of A Down,false
 Cigaro,Mezmerize,System Of A Down,false
 Deer Dance,Toxicity,System Of A Down,false
