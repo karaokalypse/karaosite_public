@@ -1,8 +1,8 @@
 {
-    "date": "2025/09/06",
-    "dateAsString": "Saturday 6th September at 9:30pm",
+    "date": "2025/09/26",
+    "dateAsString": "Friday 26th September at 9:30pm",
     "fb_link": "https://www.facebook.com/karaokalypse/",
     "special_link": "",
-    "special": false,
+    "special": true,
     "battlevox": false
 }
