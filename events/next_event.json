@@ -1,8 +1,9 @@
 {
-    "date": "2025/11/29",
-    "dateAsString": "Saturday 29th November at 9:00pm",
-    "fb_link": "https://www.facebook.com/events/1926145587937633",
-    "special_link": "",
+    "date": "2025/12/31",
+    "dateAsString": "Wednesday 31st December at 9:30pm",
+    "fb_link": "https://www.facebook.com/events/1251535823673321",
+    "special_link": "https://www.eventbrite.ie/e/new-years-eve-alternative-karaoke-club-night-tickets-1977131772354",
     "special": false,
-    "battlevox": false
+    "battlevox": false,
+    "new_years_eve": true
 }
