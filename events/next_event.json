@@ -1,9 +1,9 @@
 {
-  "date": "2026/04/04",
-  "dateAsString": "Saturday 4th April at 9:30pm",
-  "fb_link": "https://www.facebook.com/Karaokalypse",
+  "date": "2026/05/02",
+  "dateAsString": "Saturday 2nd May at 9:30pm",
+  "fb_link": "https://www.facebook.com/events/2516954768724485/",
   "special_link": "",
   "special": false,
-  "battlevox": false,
+  "battlevox": true,
   "new_years_eve": false
 }
