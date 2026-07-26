@@ -1,4 +1,7 @@
 TITLE,ARTIST,IS_NEW
+Wasteland,10 Years,true
+Kryptonite,3 Doors Down & Jack Joseph Puig,true
+What's Up?,4 Non Blondes,true
 Back In Black,AC/DC,false
 Dirty Deeds Done Dirt Cheap,AC/DC,false
 Highway to Hell,AC/DC,false
@@ -7,6 +10,7 @@ T.N.T.,AC/DC,false
 Thunderstruck,AC/DC,false
 Whole Lotta Rosie,AC/DC,false
 You Shook Me All Night Long,AC/DC,false
+Balls to the Wall,Accept,true
 Stand and Deliver,Adam & The Ants,false
 Dream On,Aerosmith,false
 Dude (Looks Like A Lady),Aerosmith,false
@@ -14,6 +18,8 @@ I Don't Want To Miss A Thing,Aerosmith,false
 Janie's Got A Gun,Aerosmith,false
 Rag Doll,Aerosmith,false
 Sweet Emotion,Aerosmith,false
+Miss Murder,AFI,true
+Silver And Cold,AFI,true
 Forgiven,Alanis Morissette,false
 Hand in My Pocket,Alanis Morissette,false
 Ironic,Alanis Morissette,false
@@ -29,11 +35,15 @@ School's Out,Alice Cooper,false
 Bleed The Freak,Alice In Chains,false
 Down In A Hole,Alice In Chains,false
 Man in the Box,Alice In Chains,false
+No Excuses,Alice In Chains,true
 Nutshell,Alice In Chains,false
 Rooster,Alice In Chains,false
 Them Bones,Alice In Chains,false
 We Die Young,Alice In Chains,false
 Would?,Alice In Chains,false
+Movies,Alien Ant Farm,true
+Smooth Criminal,Alien Ant Farm,true
+Radio,Alkaline Trio,true
 Dirty Little Secret,The All-American Rejects,false
 "Swing, Swing",The All-American Rejects,false
 Big in Japan,Alphaville,false
@@ -46,6 +56,7 @@ Caught In A Mosh,Anthrax,false
 I Don't Care,Apocalyptica,false
 Nemesis,Arch Enemy,false
 Animals,Architects,false
+Doomsday,Architects,true
 Do I Wanna Know?,Arctic Monkeys,false
 I Bet You Look Good On The Dancefloor,Arctic Monkeys,false
 One Armed Scissor,At the Drive-In,false
@@ -66,17 +77,23 @@ V.A.N,Bad Omens feat. Poppy,false
 American Jesus,Bad Religion,false
 Infected,Bad Religion,false
 One Week,Barenaked Ladies,false
+She's in Parties,Bauhaus,true
 Sabotage,Beastie Boys,false
 Back In The U.S.S.R.,The Beatles,false
 Come Together,The Beatles,false
 Helter Skelter,The Beatles,false
 I Am The Walrus,The Beatles,false
 Twist And Shout,The Beatles,false
+Loser,Beck,true
 Rockin' the Suburbs,Ben Folds,false
+Army,Ben Folds Five,true
+Rebel Girl,Bikini Kill,true
 Flesh For Fantasy,Billy Idol,false
 Rebel Yell,Billy Idol,false
 White Wedding,Billy Idol,false
 Fallen Leaves,Billy Talent,false
+Red Flag,Billy Talent,true
+River Below,Billy Talent,true
 Try Honesty,Billy Talent,false
 Army Of Me,Björk,false
 It's Oh So Quiet,Björk,false
@@ -96,6 +113,7 @@ The Wizard,Black Sabbath,false
 War Pigs,Black Sabbath,false
 White Trash Millionaire,Black Stone Cherry,false
 The Bard's Song,Blind Guardian,false
+No Rain,Blind Melon,true
 Adam's Song,blink-182,false
 All The Small Things,blink-182,false
 Feeling This,blink-182,false
@@ -138,7 +156,11 @@ Born to Run,Bruce Springsteen,false
 Dancing In the Dark,Bruce Springsteen,false
 Crazy Bitch,Buckcherry,false
 All These Things I Hate (Revolve Around Me),Bullet For My Valentine,false
+Hand Of Blood,Bullet For My Valentine,true
+Hearts Burst into Fire,Bullet For My Valentine,true
+Scream Aim Fire,Bullet For My Valentine,true
 Tears Don't Fall,Bullet For My Valentine,false
+Waking the Demon,Bullet For My Valentine,true
 Your Betrayal,Bullet For My Valentine,false
 Everything Zen,Bush,false
 Machinehead,Bush,false
@@ -147,10 +169,12 @@ Ever Fallen in Love (With Someone You Shouldn't've?),Buzzcocks,false
 I Will Survive,CAKE,false
 The Distance,CAKE,false
 Hammer Smashed Face,Cannibal Corpse,false
+Heartwork,Carcass,true
 Drive,The Cars,false
 Just Like The Movies,Cars in Drive,false
 I Want You to Want Me,Cheap Trick,false
 Surrender,Cheap Trick,false
+Comfortable Liar,Chevelle,true
 The Red,Chevelle,false
 Are You Dead Yet?,Children Of Bodom,false
 Seasons,Chris Cornell,false
@@ -167,12 +191,14 @@ Loco,Coal Chamber,false
 Heaven or Las Vegas,Cocteau Twins,false
 Welcome Home,Coheed and Cambria,false
 Clean My Wounds,Corrosion Of Conformity,false
+Low,Cracker,true
 Nymphetamine Fix,Cradle Of Filth,false
 Goo Goo Muck,The Cramps,false
 Human Fly,The Cramps,false
 Dreams,The Cranberries,false
 Linger,The Cranberries,false
 Zombie,The Cranberries,false
+Butterfly,Crazy Town,true
 Sunshine Of Your Love,Cream,false
 My Sacrifice,Creed,false
 With Arms Wide Open,Creed,false
@@ -200,16 +226,23 @@ Mother,Danzig,false
 Twist Of Cain,Danzig,false
 Growing on Me,The Darkness,false
 I Believe in a Thing Called Love,The Darkness,false
+Hands Down,Dashboard Confessional,true
+Vindicated,Dashboard Confessional,true
 Ashes to Ashes,David Bowie,false
 Heroes,David Bowie,false
 I'm Afraid Of Americans,David Bowie,false
 Let's Dance,David Bowie,false
 Life on Mars?,David Bowie,false
 Magic Dance,David Bowie,false
+Rebel Rebel,David Bowie,true
+Space Oddity,David Bowie,true
+Starman,David Bowie,true
+The Man Who Sold the World,David Bowie,true
 If It Means A Lot To You,A Day To Remember,false
 California Uber Alles,Dead Kennedys,false
 Holiday in Cambodia,Dead Kennedys,false
 Too Drunk To Fuck,Dead Kennedys,false
+Soul Meets Body,Death Cab for Cutie,true
 Hush,Deep Purple,false
 Smoke On The Water,Deep Purple,false
 Animal,Def Leppard,false
@@ -232,15 +265,19 @@ Ghosts Again,Depeche Mode,false
 I Feel You,Depeche Mode,false
 It's No Good,Depeche Mode,false
 Just Can't Get Enough,Depeche Mode,false
+Master and Servant,Depeche Mode,true
 Never Let Me Down Again,Depeche Mode,false
 Personal Jesus,Depeche Mode,false
 Policy of Truth,Depeche Mode,false
 Strangelove,Depeche Mode,false
 Stripped,Depeche Mode,false
+World In My Eyes,Depeche Mode,true
 Whip It,DEVO,false
+Feel the Pain,Dinosaur Jr.,true
 Holy Diver,Dio,false
 Rainbow In The Dark,Dio,false
 City Of Angels,The Distillers,false
+I Touch Myself,Divinyls,true
 Into The Fire,Dokken,false
 Break on Through (To the Other Side),The Doors,false
 Light My Fire,The Doors,false
@@ -254,8 +291,12 @@ Hungry Like the Wolf,Duran Duran,false
 Is There Something I Should Know?,Duran Duran,false
 Ordinary World,Duran Duran,false
 Planet Earth,Duran Duran,false
+Save a Prayer,Duran Duran,true
 The Wild Boys,Duran Duran,false
 The Killing Moon,Echo & the Bunnymen,false
+Hypa Hypa,Electric Callboy,true
+Pump It,Electric Callboy,true
+We Got the Moves,Electric Callboy,true
 The Last Crusade - A New Age Dawns 1,Epica,false
 Situations,Escape the Fate,false
 The Final Countdown,Europe,false
@@ -287,15 +328,21 @@ Centuries,Fall Out Boy,false
 "The Take Over, The Breaks Over",Fall Out Boy,false
 "This Ain't A Scene, It's An Arms Race",Fall Out Boy,false
 Thnks fr th Mmrs,Fall Out Boy,false
+Cars (remix),Fear Factory,true
 Buck Rogers,Feeder,false
+Phobia,Fields Of The Nephilim,true
 "Hey Man, Nice Shot",Filter,false
 Bad Company,Five Finger Death Punch,false
 Far From Home,Five Finger Death Punch,false
 Under and Over It,Five Finger Death Punch,false
+Dreams,Fleetwood Mac,true
 Go Your Own Way,Fleetwood Mac,false
 Gold Dust Woman,Fleetwood Mac,false
 The Chain,Fleetwood Mac,false
 I Ran (So Far Away),A Flock Of Seagulls,false
+Boys in the Better Land,Fontaines D.C.,true
+Favourite,Fontaines D.C.,true
+Starburster,Fontaines D.C.,true
 All My Life,Foo Fighters,false
 Best of You,Foo Fighters,false
 Big Me,Foo Fighters,false
@@ -347,9 +394,13 @@ Umbra,Ghost,false
 Watcher In The Sky,Ghost,false
 We Don't Need Another Hero,Ghost,false
 Year Zero,Ghost,false
+I Stand Alone,Godsmack,true
+Voodoo,Godsmack,true
 Silvera,Gojira,false
 Stranded,Gojira,false
 99 Red Balloons,Goldfinger,false
+Strict Machine,Goldfrapp,true
+Iris,The Goo Goo Dolls,true
 Girls & Boys,Good Charlotte,false
 Lifestyles of the Rich & Famous,Good Charlotte,false
 21 Guns,Green Day,false
@@ -378,6 +429,8 @@ Here's to Us,Halestorm,false
 I Get Off,Halestorm,false
 I Miss the Misery,Halestorm,false
 Love Bites (So Do I),Halestorm,false
+Flagpole Sitta,Harvey Danger,true
+Ohio Is For Lovers,Hawthorne Heights,true
 Beating Heart Baby,Head Automatica,false
 Alone,Heart,false
 Barracuda,Heart,false
@@ -396,6 +449,10 @@ Violet,Hole,false
 Crawling In The Dark,Hoobastank,false
 The Reason,Hoobastank,false
 Hit Me With Your Rhythm Stick,Ian Dury & The Blockheads,false
+A Grave Mistake,Ice Nine Kills,true
+The American Nightmare,Ice Nine Kills,true
+Twisting The Knife,Ice Nine Kills & Mckenna Grace,true
+I'm Scum,IDLES,true
 Never Fight A Man With A Perm,IDLES,false
 The Passenger,Iggy Pop,false
 Radioactive,Imagine Dragons,false
@@ -452,9 +509,12 @@ Breaking the Law,Judas Priest,false
 Living After Midnight,Judas Priest,false
 Turbo Lover,Judas Priest,false
 You've Got Another Thing Coming,Judas Priest,false
+Themata,Karnivool,true
 Babooshka,Kate Bush,false
 Running Up That Hill (A Deal With God),Kate Bush,false
 Nightcall,Kavinsky,false
+Eighties,Killing Joke,true
+Love Like Blood,Killing Joke,true
 My Curse,Killswitch Engage,false
 My Last Serenade,Killswitch Engage,false
 The End of Heartache,Killswitch Engage,false
@@ -472,8 +532,12 @@ Lick It Up,KISS,false
 Love Gun,KISS,false
 Rock And Roll All Nite,KISS,false
 Strutter,KISS,false
+Brackish,Kittie,true
+Charlotte,Kittie,true
 Counting Worms,Knocked Loose,false
+God Knows,Knocked Loose,true
 Mistakes Like Fractures,Knocked Loose,false
+Billy No Mates,Knocked Loose & Counterparts,true
 A.D.I.D.A.S.,Korn,false
 Alone I Break,Korn,false
 Blind,Korn,false
@@ -486,6 +550,7 @@ Twisted Transistor,Korn,false
 Word Up!,Korn,false
 Y'all Want a Single,Korn,false
 All In the Family (feat. Fred Durst),Korn & Fred Durst,false
+Violent Revolution,Kreator,true
 Pretend We're Dead,L7,false
 Shitlist,L7,false
 Enjoy the Silence,Lacuna Coil,false
@@ -505,6 +570,7 @@ American Woman,Lenny Kravitz,false
 Are You Gonna Go My Way,Lenny Kravitz,false
 Fly Away,Lenny Kravitz,false
 All My Best Friends Are Metalheads,Less Than Jake,false
+United States Of Whatever,Liam Lynch,true
 Behind Blue Eyes,Limp Bizkit,false
 Break Stuff,Limp Bizkit,false
 Counterfeit,Limp Bizkit,false
@@ -533,12 +599,15 @@ What I've Done,Linkin Park,false
 With You,Linkin Park,false
 My Own Worst Enemy,Lit,false
 Cult of Personality,Living Colour,false
+Is It Really You?,Loathe,true
+Bound For The Floor,Local H,true
 Free Bird,Lynyrd Skynyrd,false
 Gimme Three Steps,Lynyrd Skynyrd,false
 Sweet Home Alabama,Lynyrd Skynyrd,false
 Davidian,Machine Head,false
 Baggy Trousers,Madness,false
 One Step Beyond,Madness,false
+Frozen,Madonna,true
 If You Tolerate This Your Children Will Be Next,Manic Street Preachers,false
 Warriors of the World United,Manowar,false
 Sex & Candy,Marcy Playground,false
@@ -550,7 +619,11 @@ The Dope Show,Marilyn Manson,false
 This Is The New Shit,Marilyn Manson,false
 Tourniquet,Marilyn Manson,false
 The Widow,The Mars Volta,false
+Teardrop,Massive Attack & Elizabeth Fraser,true
 Blood and Thunder,Mastodon,false
+Curl of the Burl,Mastodon,true
+Show Yourself,Mastodon,true
+Push,Matchbox Twenty,true
 I'd Do Anything For Love (But I Won't Do That),Meat Loaf,false
 Paradise By the Dashboard Light,Meat Loaf,false
 Dead Ringer for Love (with Cher),"Meat Loaf,Cher",false
@@ -594,7 +667,11 @@ Skulls,"Misfits,Glenn Danzig",false
 Where Eagles Dare,"Misfits,Glenn Danzig",false
 Suedehead,Morrissey,false
 You Have Killed Me,Morrissey,false
+Everything Is Alright,Motion City Soundtrack,true
+Afraid Of The Dark,Motionless In White,true
 Another Life,Motionless In White,false
+Masterpiece,Motionless In White,true
+Voices,Motionless In White,true
 "Girls, Girls, Girls",Mötley Crüe,false
 Home Sweet Home,Mötley Crüe,false
 Kickstart My Heart,Mötley Crüe,false
@@ -609,6 +686,7 @@ Killed by Death,Motörhead,false
 Overkill,Motörhead,false
 The Game,Motörhead,false
 Pink Cigarette,Mr. Bungle,false
+Touch Me I'm Sick,Mudhoney,true
 Dig,Mudvayne,false
 Happy?,Mudvayne,false
 Not Falling,Mudvayne,false
@@ -633,8 +711,10 @@ Thank You for the Venom,My Chemical Romance,false
 The Ghost of You,My Chemical Romance,false
 Welcome to the Black Parade,My Chemical Romance,false
 You Know What They Do to Guys Like Us in Prison,My Chemical Romance,false
+Popular,Nada Surf,true
 Bizarre Love Triangle,New Order,false
 Blue Monday,New Order,false
+Regret,New Order,true
 True Faith,New Order,false
 How You Remind Me,Nickelback,false
 Photograph,Nickelback,false
@@ -676,6 +756,8 @@ Hella Good,No Doubt,false
 Just A Girl,No Doubt,false
 Spiderwebs,No Doubt,false
 Linoleum,NOFX,false
+Bullet With a Name,Nonpoint,true
+In the Air Tonight,Nonpoint,true
 Come Out and Play,The Offspring,false
 Pretty Fly (For A White Guy),The Offspring,false
 Self Esteem,The Offspring,false
@@ -709,9 +791,13 @@ Mouth for War,Pantera,false
 Strength Beyond Strength,Pantera,false
 This Love,Pantera,false
 Walk,Pantera,false
+...To Be Loved,Papa Roach,true
 Between Angels And Insects,Papa Roach,false
+Broken Home,Papa Roach,true
+Getting Away With Murder,Papa Roach,true
 Last Resort,Papa Roach,false
 Scars,Papa Roach,false
+She Loves Me Not,Papa Roach,true
 All I Wanted,Paramore,false
 Brick by Boring Brick,Paramore,false
 crushcrushcrush,Paramore,false
@@ -721,8 +807,11 @@ Misery Business,Paramore,false
 Still into You,Paramore,false
 That's What You Get,Paramore,false
 The Only Exception,Paramore,false
+Prey,Parkway Drive,true
+Vice Grip,Parkway Drive,true
 Alive,Pearl Jam,false
 Better Man,Pearl Jam,false
+Daughter,Pearl Jam,true
 Even Flow,Pearl Jam,false
 Jeremy,Pearl Jam,false
 Judith,A Perfect Circle,false
@@ -730,10 +819,12 @@ Passive,A Perfect Circle,false
 Pet,A Perfect Circle,false
 The Noose,A Perfect Circle,false
 The Outsider,A Perfect Circle,false
+It's a Sin,Pet Shop Boys,true
 Digging In The Dirt,Peter Gabriel,false
 Shock The Monkey,Peter Gabriel,false
 Sledgehammer,Peter Gabriel,false
 Cuts You Up,Peter Murphy,false
+King for a Day,Pierce The Veil,true
 Another Brick In The Wall (Part 2),Pink Floyd,false
 Wish You Were Here,Pink Floyd,false
 Debaser,Pixies,false
@@ -760,6 +851,7 @@ Message In A Bottle,The Police,false
 Roxanne,The Police,false
 Glory Box,Portishead,false
 Sour Times,Portishead,false
+When Worlds Collide,Powerman 5000,true
 Lump,The Presidents Of The United States Of America,false
 Peaches,The Presidents Of The United States Of America,false
 Heaven Knows,The Pretty Reckless,false
@@ -770,6 +862,7 @@ Jerry Was A Race Car Driver,Primus,false
 John The Fisherman,Primus,false
 Tommy The Cat,Primus,false
 Wynona's Big Brown Beaver,Primus,false
+When Doves Cry,Prince,true
 Blurry,Puddle Of Mudd,false
 Control,Puddle Of Mudd,false
 She Hates Me,Puddle Of Mudd,false
@@ -850,7 +943,9 @@ Ohne dich,Rammstein,false
 Puppe,Rammstein,false
 Pussy,Rammstein,false
 Reise Reise,Rammstein,false
+Rosenrot,Rammstein,true
 Sonne,Rammstein,false
+Zeit,Rammstein,true
 "Baby, I Love You",Ramones,false
 Blitzkrieg Bop,Ramones,false
 I Wanna Be Sedated,Ramones,false
@@ -889,20 +984,38 @@ Love Is Strong,The Rolling Stones,false
 Start Me Up,The Rolling Stones,false
 Sympathy For The Devil,The Rolling Stones,false
 Under My Thumb,The Rolling Stones,false
+Figure It Out,Royal Blood,true
+Out of the Black,Royal Blood,true
 Walk This Way (feat. Aerosmith),"Run–D.M.C.,Aerosmith",false
 Cherry Bomb,The Runaways,false
 Limelight,Rush,false
 Tom Sawyer,Rush,false
 Hurricane,Scorpions,false
 Wind Of Change,Scorpions,false
+Fake It,Seether,true
+Broken,Seether & Amy Lee,true
+Closing Time,Semisonic,true
+Dead Embryonic Cells,Sepultura,true
 Refuse / Resist,Sepultura,false
 Roots Bloody Roots,Sepultura,false
+Territory,Sepultura,true
 Empty Walls,Serj Tankian,false
+Black,Sevendust,true
+Denial,Sevendust,true
+Anarchy In The UK,Sex Pistols,true
+God Save The Queen,Sex Pistols,true
+My Way,Sex Pistols,true
+Pretty Vacant,Sex Pistols,true
 Stay,Shakespears Sister,false
 Hurry Up Harry,Sham 69,false
 Tear You Apart,She Wants Revenge,false
 These Things,She Wants Revenge,false
 A Symptom Of Being Human,Shinedown,false
+Second Chance,Shinedown,true
+Tomorrow,Silverchair,true
+I'm Just a Kid,Simple Plan,true
+Perfect,Simple Plan,true
+Welcome to My Life,Simple Plan,true
 Cities In Dust,Siouxsie and the Banshees,false
 Dear Prudence,Siouxsie and the Banshees,false
 Face To Face,Siouxsie and the Banshees,false
@@ -911,6 +1024,8 @@ Hong Kong Garden,Siouxsie and the Banshees,false
 Peek-A-Boo,Siouxsie and the Banshees,false
 Spellbound,Siouxsie and the Banshees,false
 The Passenger,Siouxsie and the Banshees,false
+Dominion,Sisters of Mercy,true
+Lucretia My Reflection,Sisters of Mercy,true
 18 and Life,Skid Row,false
 Slave to the Grind,Skid Row,false
 Youth Gone Wild,Skid Row,false
@@ -948,6 +1063,7 @@ The Heretic Anthem,Slipknot,false
 Unsainted,Slipknot,false
 Vermilion,Slipknot,false
 Wait and Bleed,Slipknot,false
+All Star,Smash Mouth,true
 1979,The Smashing Pumpkins,false
 Ava Adore,The Smashing Pumpkins,false
 Bullet With Butterfly Wings,The Smashing Pumpkins,false
@@ -971,9 +1087,13 @@ Stop Me If You Think You've Heard This One Before,The Smiths,false
 This Charming Man,The Smiths,false
 Unhappy Birthday,The Smiths,false
 What Difference Does It Make?,The Smiths,false
+I Was Wrong,Social Distortion,true
+Ring of Fire,Social Distortion,true
 Sex Dwarf,Soft Cell,false
 Tainted Love,Soft Cell,false
 Halo,Soil,false
+Runaway Train,Soul Asylum,true
+Jumpdafuckup,Soulfly,true
 Black Hole Sun,Soundgarden,false
 Burden In My Hand,Soundgarden,false
 Fell On Black Days,Soundgarden,false
@@ -984,6 +1104,8 @@ Spoonman,Soundgarden,false
 A Message to You Rudy,The Specials,false
 Monkey Man,The Specials,false
 Too Much Too Young,The Specials,false
+Two Princes,Spin Doctors,true
+New Disease,Spineshank,true
 Circle With Me,Spiritbox,false
 Holy Roller,Spiritbox,false
 It's Been Awhile,Staind,false
@@ -991,6 +1113,7 @@ Outside,Staind,false
 We Built This City,Starship,false
 Push It,Static-X,false
 Edge of Seventeen,Stevie Nicks,false
+Big Empty,Stone Temple Pilots,true
 Dead & Bloated,Stone Temple Pilots,false
 Interstate Love Song,Stone Temple Pilots,false
 Plush,Stone Temple Pilots,false
@@ -1036,6 +1159,9 @@ Violent Pornography,System Of A Down,false
 20th Century Boy,T. Rex,false
 Bang A Gong (Get It On),T. Rex,false
 Children of the Revolution,T. Rex,false
+Cute Without The 'E' (Cut From The Team),Taking Back Sunday,true
+MakeDamnSure,Taking Back Sunday,true
+You're So Last Summer,Taking Back Sunday,true
 It's My Life,Talk Talk,false
 Life's What You Make It,Talk Talk,false
 Burning Down the House,Talking Heads,false
@@ -1083,9 +1209,11 @@ Stinkfist,TOOL,false
 Cornflake Girl,Tori Amos,false
 Africa,TOTO,false
 Hold the Line,TOTO,false
+Headstrong,Trapt,true
 In Waves,Trivium,false
 Pull Harder on the Strings of Your Martyr,Trivium,false
 MYSTERY,Turnstile,false
+Stressed Out,Twenty One Pilots,true
 I Wanna Rock,Twisted Sister,false
 We're Not Gonna Take It,Twisted Sister,false
 Black No. 1 (Little Miss Scare -All),Type O Negative,false
@@ -1093,6 +1221,9 @@ Christian Woman,Type O Negative,false
 I Don't Wanna Be Me,Type O Negative,false
 My Girlfriend's Girlfriend,Type O Negative,false
 Summer Breeze,Type O Negative,false
+I Will Follow,U2,true
+New Year's Day,U2,true
+One,U2,true
 Everything About You,Ugly Kid Joe,false
 Teenage Kicks,The Undertones,false
 The Bird and the Worm,The Used,false
@@ -1106,7 +1237,9 @@ Why Can't This Be Love,Van Halen,false
 Turning Japanese - Non Stop Edit,The Vapors,false
 Fall to Pieces,Velvet Revolver,false
 Slither,Velvet Revolver,false
+Black Metal,Venom,true
 Seether,Veruca Salt,false
+Volcano Girls,Veruca Salt,true
 Sports,Viagra Boys,false
 Blister In The Sun,Violent Femmes,false
 Fade To Grey,Visage,false
@@ -1114,20 +1247,35 @@ A Warrior's Call,Volbeat,false
 The Devil's Bleeding Crown,Volbeat,false
 Animal (Fuck Like A Beast),W.A.S.P.,false
 Wild Child,W.A.S.P.,false
+Cherry Pie,Warrant,true
 Check Yes Juliet,We The Kings,false
 Beverly Hills,Weezer,false
+Buddy Holly,Weezer,true
 Hash Pipe,Weezer,false
 Island In The Sun,Weezer,false
 Say It Ain't So,Weezer,false
 Chaise Longue,Wet Leg,false
+A Little Respect,Wheatus,true
 Teenage Dirtbag,Wheatus,false
 Fell In Love With a Girl,The White Stripes,false
 My Doorbell,The White Stripes,false
 Seven Nation Army,The White Stripes,false
 More Human Than Human,White Zombie,false
 Thunder Kiss '65,White Zombie,false
+Fool for Your Loving,Whitesnake,true
+Here I Go Again,Whitesnake,true
+Is This Love,Whitesnake,true
+Baba O'Riley,The Who,true
+My Generation,The Who,true
+Pinball Wizard,The Who,true
+Won't Get Fooled Again,The Who,true
 Angels,Within Temptation,false
 Faster,Within Temptation,false
 Memories,Within Temptation,false
 Stand My Ground,Within Temptation,false
+Germfree Adolescence,X-Ray Spex,true
+Heads Will Roll,Yeah Yeah Yeahs,true
+Maps,Yeah Yeah Yeahs,true
+I Was Made For Lovin' You,YUNGBLUD,true
+Lowlife,YUNGBLUD,true
 parents,YUNGBLUD,false
