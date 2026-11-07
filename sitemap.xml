@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- Homepage -->
-    <url>
-        <loc>https://karaokalypse.ie</loc>
-        <lastmod>2023-10-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <!-- Next Event -->
-    <url>
-        <loc>https://karaokalypse.ie/#next-event</loc>
-        <lastmod>2023-10-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <!-- Song List -->
-    <url>
-        <loc>https://karaokalypse.ie/#song-list</loc>
-        <lastmod>2023-10-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-
-    
+  <!-- One page. Section links (#next-event, #song-list) are fragments, which
+       search engines ignore, so they are not listed. There is no
+       last-modified date on purpose: it would go stale, and a missing date is
+       better than a wrong one. -->
+  <url>
+    <loc>https://karaokalypse.ie/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
