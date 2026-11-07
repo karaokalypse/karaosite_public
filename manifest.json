@@ -1,28 +1,14 @@
 {
   "short_name": "KARAOKALYPSE",
   "name": "KARAOKALYPSE | Dublin's best rock Karaoke event!",
-  "description": "Monthly rock and metal karaoke night at Fibber Magees, Dublin. Next date and the full song list.",
   "icons": [
     {
       "src": "favicon.webp",
-      "sizes": "300x300",
-      "type": "image/webp"
-    },
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "sizes": "128x128 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
     }
   ],
   "start_url": ".",
-  "scope": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000"
